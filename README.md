@@ -150,329 +150,543 @@ Please enter the element you want to add: 2
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 1
+
 Please enter the element you want to add: 4
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:4
+
 ***** LIST 0 *****
+
 S-1 S-2 S-3
+
 ***** LIST 1 *****
+
 S-2 S-4
+
 ***** LIST 2 *****
+
 The list is empty
+
 ***** LIST 3 *****
+
 The list is empty
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:2
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:4
+
 ***** LIST 0 *****
+
 S-1 M0-2 S-3
+
 ***** LIST 1 *****
+
 M0-2 S-4
+
 ***** LIST 2 *****
+
 The list is empty
+
 ***** LIST 3 *****
+
 The list is empty
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:6
+
 Press any key to continue . . .
 
 ---------------------------------------------------------
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 3
+
 Please enter the element you want to add: 2
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 3
+
 Please enter the element you want to add: 7
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 3
+
 Please enter the element you want to add: 9
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 2
+
 Please enter the element you want to add: 8
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 2
+
 Please enter the element you want to add: 7
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:2
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:3
+
 Please enter which list you want print: 3
+
 S-2 M2-7 S-9
+
 9
+
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:6
+
 Press any key to continue . . .
 
 -----------------------------------------------------
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 0
+
 Please enter the element you want to add: 9
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 0
+
 Please enter the element you want to add: 8
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 0
+
 Please enter the element you want to add: 7
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 1
+
 Please enter the element you want to add: 4
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 1
+
 Please enter the element you want to add: 8
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 1
+
 Please enter the element you want to add: 3
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 2
+
 Please enter the element you want to add: 4
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 2
+
 Please enter the element you want to add: 8
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 2
+
 Please enter the element you want to add: 5
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:4
+
 ***** LIST 0 *****
+
 S-9 S-8 S-7
+
 ***** LIST 1 *****
+
 S-4 S-8 S-3
+
 ***** LIST 2 *****
+
 S-4 S-8 S-5
+
 ***** LIST 3 *****
+
 The list is empty
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:2
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:4
+
 ***** LIST 0 *****
+
 S-9 M0-8 S-7
+
 ***** LIST 1 *****
+
 M1-4 M0-8 S-3
+
 ***** LIST 2 *****
+
 M1-4 M0-8 S-5
+
 ***** LIST 3 *****
+
 The list is empty
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:5
+
 Please enter which list you want delete from: 1
+
 Please enter the number to be deleted: 8
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:4
+
 ***** LIST 0 *****
+
 S-9 M0-8 S-7
+
 ***** LIST 1 *****
+
 M1-4 S-3
+
 ***** LIST 2 *****
+
 M1-4 M0-8 S-5
+
 ***** LIST 3 *****
+
 The list is empty
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:6
+
 Press any key to continue . . .
 
 -------------------------------------------------
@@ -485,39 +699,62 @@ Press any key to continue . . .
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 7
+
 Selection out of range.
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:5
+
 Please enter which list you want delete from: 1
+
 Please enter the number to be deleted: 1
+
 The list is empty
 
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:3
+
 Please enter which list you want print: 1
+
 The list is empty
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:6
+
 Press any key to continue . . .
