@@ -64,55 +64,89 @@ When this option is selected, first the list index will be prompted and then the
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 4.	Sample Runs
+
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 0
+
 Please enter the element you want to add: 1
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 0
+
 Please enter the element you want to add: 2
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 0
+
 Please enter the element you want to add: 3
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
+
 Please enter which list you want to add to: 1
+
 Please enter the element you want to add: 2
 
 1 - Insert a new node
+
 2 - Merge lists
+
 3 - Print list
+
 4 - Print all lists
+
 5 - Delete node
+
 6 - Exit
 
 Enter your choice:1
